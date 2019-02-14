@@ -1,0 +1,22 @@
+body {
+    background-color: #7f8c8d;
+    padding: 2em;
+    padding-top: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: normal;
+    color: white;
+    letter-spacing: 1px;
+}
+
+button {
+
+}
+
+.selected {
+    border-bottom: black 5px solid;
+    padding: 0 0 0 0;
+}
